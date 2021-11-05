@@ -18,31 +18,31 @@ const Footer = () => {
                     <div className="soojao">
                         <h2>Product</h2>
                         <div className="fist">
-                        <a href="https://bit.ly/3iPnfML">Features</a>
-                        <a href="https://bit.ly/3iPnfML">Integrations</a>
-                        <a href="https://bit.ly/3iPnfML">Documents</a>
-                        <a href="https://bit.ly/3iPnfML">FAQ's</a>
-                        <a href="https://bit.ly/3iPnfML">Pricing</a>
+                        <a href="#">Features</a>
+                        <a href="#">Integrations</a>
+                        <a href="#">Documents</a>
+                        <a href="#">FAQ's</a>
+                        <a href="#">Pricing</a>
                     </div>
                     </div>
                      <div className="soojao">
                         <h2>About</h2>
                         <div className="fist">
-                        <a href="https://bit.ly/3iPnfML">Our Story</a>
-                        <a href="https://bit.ly/3iPnfML">Company</a>
-                        <a href="https://bit.ly/3iPnfML">Privacy</a>
-                        <a href="https://bit.ly/3iPnfML">Blog</a>
-                        <a href="https://bit.ly/3iPnfML">More</a>
+                        <a href="#">Our Story</a>
+                        <a href="#">Company</a>
+                        <a href="#">Privacy</a>
+                        <a href="#">Blog</a>
+                        <a href="#">More</a>
                     </div>
                     </div>
                     <div className="soojao">
                         <h2>Contact</h2>
                         <div className="fist">
-                        <a href="https://bit.ly/3iPnfML">Advertising</a>
-                        <a href="https://bit.ly/3iPnfML">Press</a>
-                        <a href="https://bit.ly/3iPnfML">Email</a>
-                        <a href="https://bit.ly/3iPnfML">Partners</a>
-                        <a href="https://bit.ly/3iPnfML">Jobs</a>
+                        <a href="#">Advertising</a>
+                        <a href="#">Press</a>
+                        <a href="#">Email</a>
+                        <a href="#">Partners</a>
+                        <a href="#">Jobs</a>
                     </div>
                     </div>
                 </div>
