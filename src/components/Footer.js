@@ -11,7 +11,7 @@ const Footer = () => {
                         <img src={Hol} alt="" />
                     </div>
                     <div className="shit">
-                        <p>hyperLocalization and More!</p>
+                        <p>hyperLocalization and More</p>
                     </div>
                 </div>
                 <div className="linkss">
