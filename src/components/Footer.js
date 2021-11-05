@@ -18,31 +18,31 @@ const Footer = () => {
                     <div className="soojao">
                         <h2>Product</h2>
                         <div className="fist">
-                        <a href="#">Features</a>
-                        <a href="#">Integrations</a>
-                        <a href="#">Documents</a>
-                        <a href="#">FAQ's</a>
-                        <a href="#">Pricing</a>
+                        <a href="https://hlo.vercel.app/">Features</a>
+                        <a href="https://hlo.vercel.app/">Integrations</a>
+                        <a href="https://hlo.vercel.app/">Documents</a>
+                        <a href="https://hlo.vercel.app/">FAQ's</a>
+                        <a href="https://hlo.vercel.app/">Pricing</a>
                     </div>
                     </div>
                      <div className="soojao">
                         <h2>About</h2>
                         <div className="fist">
-                        <a href="#">Our Story</a>
-                        <a href="#">Company</a>
-                        <a href="#">Privacy</a>
-                        <a href="#">Blog</a>
-                        <a href="#">More</a>
+                        <a href="https://hlo.vercel.app/">Our Story</a>
+                        <a href="https://hlo.vercel.app/">Company</a>
+                        <a href="https://hlo.vercel.app/">Privacy</a>
+                        <a href="https://hlo.vercel.app/">Blog</a>
+                        <a href="https://hlo.vercel.app/">More</a>
                     </div>
                     </div>
                     <div className="soojao">
                         <h2>Contact</h2>
                         <div className="fist">
-                        <a href="#">Advertising</a>
-                        <a href="#">Press</a>
-                        <a href="#">Email</a>
-                        <a href="#">Partners</a>
-                        <a href="#">Jobs</a>
+                        <a href="https://hlo.vercel.app/">Advertising</a>
+                        <a href="https://hlo.vercel.app/">Press</a>
+                        <a href="https://hlo.vercel.app/">Email</a>
+                        <a href="https://hlo.vercel.app/">Partners</a>
+                        <a href="https://hlo.vercel.app/">Jobs</a>
                     </div>
                     </div>
                 </div>
